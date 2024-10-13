@@ -1,0 +1,32 @@
+.container {
+    position: relative;
+    margin-top: 190px;
+    margin-left: 510px;
+}
+
+.square1{
+    background-color: red;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.square2{
+    background-color: blue;
+    top: 60px;
+    left: 100px;
+    z-index: 1;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.square3{
+    background-color: green;
+    top: 120px;
+    left: 150px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
